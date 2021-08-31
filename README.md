@@ -73,3 +73,6 @@ cross-compilation environment.  See also
 the wiki.
 
 Send questions to https://stackoverflow.com/questions/tagged/jq or to the #jq channel (http://irc.lc/freenode/%23jq/) on Freenode (https://webchat.freenode.net/).
+
+
+this is PR test 
